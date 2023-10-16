@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App input {
+  margin-top: 10px;
+}
+.App_color_wrapper {
+  width: 200px;
+  margin: 0 auto;
+  height: 200px;
+  border: 1px solid #333;
+}

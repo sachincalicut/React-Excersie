@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.progress{
+  margin-top:10px;
+  height: 8px;
+}
+.status{
+  display: block;
+  font-size: 13px;
+  text-align: right;
+}
