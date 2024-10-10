@@ -7,9 +7,9 @@ function LoginWithLocalStorage() {
     const getEmail = localStorage.getItem("emailData")
     const getPassword = localStorage.getItem("passwordData")
     const handleSubmit = () => {
-        if (email.current.value=="abc@gmail.com"&&password.current.value=="123") {
-            localStorage.setItem("emailData", "abc@gmail.com")
-            localStorage.setItem("passwordData", "123")
+        if (email.current.value=="sachisavera@gmail.com"&&password.current.value=="1234") {
+            localStorage.setItem("emailData", "sachisavera@gmail.com")
+            localStorage.setItem("passwordData", "1234")
         }
     }
 
